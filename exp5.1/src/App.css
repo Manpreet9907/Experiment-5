@@ -1,0 +1,23 @@
+/* Full screen center layout */
+.app-container {
+  display: flex;
+  justify-content: center;
+  align-items: right;
+  height: 100vh;
+  color: white;
+background-color: black;
+  box-sizing: border-box;
+  font-size: 20px;
+}
+
+
+.loading-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-size: 60px;
+  font-weight: bold;
+
+  box-sizing: border-box;
+}
